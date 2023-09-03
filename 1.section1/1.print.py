@@ -1,1 +1,1 @@
-print("Hello world!")
+print("Hello world!\nthis is the second line\nthis is the third line")
